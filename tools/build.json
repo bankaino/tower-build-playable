@@ -1,0 +1,85 @@
+{
+  "title": "Квадрат — построй дом",
+  "store": {
+    "android": "https://example.com/kvartiry",
+    "ios": "https://example.com/kvartiry"
+  },
+  "textures": {
+    "floor_a": [
+      800,
+      "alpha"
+    ],
+    "floor_a_lit": [
+      800,
+      "alpha"
+    ],
+    "base": [
+      1300,
+      "alpha"
+    ],
+    "base_lit": [
+      1300,
+      "alpha"
+    ],
+    "roof": [
+      820,
+      "alpha"
+    ],
+    "hook": [
+      360,
+      "alpha"
+    ],
+    "crane_jib": [
+      1100,
+      "alpha"
+    ],
+    "city_far": [
+      1100,
+      "alpha"
+    ],
+    "city_near": [
+      1100,
+      "alpha"
+    ],
+    "ground": [
+      1100,
+      "lossy"
+    ],
+    "tree_a": [
+      480,
+      "alpha"
+    ],
+    "tree_b": [
+      400,
+      "alpha"
+    ],
+    "tree_c": [
+      400,
+      "alpha"
+    ],
+    "bench": [
+      300,
+      "alpha"
+    ],
+    "lamp": [
+      300,
+      "alpha"
+    ],
+    "bush": [
+      300,
+      "alpha"
+    ],
+    "cloud_a": [
+      440,
+      "alpha"
+    ],
+    "cloud_b": [
+      360,
+      "alpha"
+    ],
+    "cloud_c": [
+      420,
+      "alpha"
+    ]
+  }
+}

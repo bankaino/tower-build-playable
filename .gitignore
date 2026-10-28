@@ -1,0 +1,14 @@
+# raw generator output, logs, superseded art, scratch renders, builds (docs/ holds the published demo)
+art/raw/
+art/logs/
+art/old/
+art/placeholder/
+art/gen/*_sheet.png
+art/gen/ref_*.png
+art/*.resolved.json
+frames/
+dist/
+node_modules/
+__pycache__/
+*.log
+.DS_Store

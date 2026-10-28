@@ -1,0 +1,6 @@
+STYLE BIBLE: clean modern flat-vector 2D mobile game art, premium casual look: simple geometric shapes, crisp edges, 2-3 soft flat tones per surface (light, base, shade), no outlines, no texture noise, minimal and airy like a contemporary Russian residential developer's brand.
+Palette: signature orange #FF5A1F (shade #E0430A, tint #FFE6D9), white #FFFFFF, light greys #F2F3F5 / #D5D8DD / #9EA3AB, graphite #1E1F22; day sky #BFDDF2 to #EEF5F8, golden hour #9CC6EA to #FFE2C7, evening #2D3B66 to #F59A6B; city silhouettes #C7D7E3 / #A9C0D0; lawn #8CC56B, trees #5FA94F / #3F8A3E, asphalt #B9BEC4; window glass #7FB6DB with a diagonal glint, warm lit windows #FFD9A0.
+Buildings: modern apartment architecture seen strictly FRONTAL, no perspective, no side walls: white and grey facade panels in a mosaic, large windows, loggias with orange frames, thin cornices, perfectly straight vertical edges so floors stack seamlessly.
+Light: soft sun from the upper left (10 o'clock), gentle ambient shading, no cast shadows on the background.
+Camera: flat front elevation, orthographic, centred. Original designs only.
+No text, no letters, no digits, no logos, no real brand marks, no watermark, no phone frame: every sign and plaque is a blank orange rounded bar.

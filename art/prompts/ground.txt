@@ -1,0 +1,3 @@
+Use case: game background strip, the yard in front of the house in the flat vector style of Image 1: a flat frontal elevation of the ground.
+Subject: from top to bottom: a low clipped green hedge line, a light-green lawn with a soft two-tone mowing pattern, a light grey stone curb, a light grey asphalt path strip, and below it the lawn again; all as horizontal bands spanning the full canvas width edge to edge with no gaps, perfectly horizontal and tileable at the left and right edges, no objects on it (no trees, no benches, no lamps, no people), no perspective, no sky.
+Constraints: fully opaque, no transparency, no text, no logos, no shadows of objects.

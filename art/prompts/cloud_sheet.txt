@@ -1,0 +1,3 @@
+Use case: sprite sheet of three soft flat-vector clouds for a daytime sky, in the style of Image 1 (white and very pale blue clouds with a flat soft shade on the underside).
+Subject: THREE separate horizontal clouds of different shapes and sizes in one row with VERY WIDE empty gutters between them (at least 20% of the canvas width), pure white #FFFFFF with a pale blue #DCEBF6 underside shade, no outlines, front view.
+Constraints: flat solid pure magenta #FF00FF background everywhere else, clouds must not touch each other or the canvas edge, no text, no logos, no glow.
