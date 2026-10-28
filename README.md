@@ -1,7 +1,7 @@
 # Построй дом — playable-реклама застройщика «Квадрат»
 
-**▶ Играть:** открой `docs/index.html` (или любой локальный сервер: `python3 -m http.server` и `/live/index.html?ad=1`).
-A/B-варианты: `docs/floors7.html`, `docs/surprise.html`. Тап или пробел — сбросить этаж, звук включается после первого касания.
+**▶ Играть в браузере / с телефона:** https://bankaino.github.io/tower-build-playable/
+(A/B-варианты: [floors7](https://bankaino.github.io/tower-build-playable/floors7.html), [surprise](https://bankaino.github.io/tower-build-playable/surprise.html)). Тап или пробел — сбросить этаж; со звуком (после первого касания).
 
 <p align="center"><img src="docs/media/gameplay.gif" width="240" alt="геймплей"><br><sub>авто-прогон, 25 с до эндкарда</sub></p>
 
